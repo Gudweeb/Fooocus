@@ -34,7 +34,7 @@
     "default_sampler": "euler_ancestral",
     "default_scheduler": "karras",
     "default_performance": "Quality",
-    "default_prompt": "",
+    "default_prompt": "score_9, score_8_up, score_7_up, score_6_up, ",
     "default_prompt_negative": "",
     "default_styles":"",
     "default_aspect_ratio": "1152*896",
@@ -44,7 +44,10 @@
         "Barely_Hidden_Sex.safetensors": "https://civitai.com/api/download/models/494167?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
         "Sinozick_Style_XL_Pony.safetensors" : "https://civitai.com/api/download/models/481798?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
         "Ass_trought_Glass.safetensors" : "https://civitai.com/api/download/models/479047?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
-        "Blender.safetensors" : "https://civitai.com/api/download/models/507741?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
+        "Blender.safetensors" : "https://civitai.com/api/download/models/507741?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "Butt_crack.safetensors" : "https://civitai.com/api/download/models/522935?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "Blue_archive.safetensors" : "https://civitai.com/api/download/models/508450?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "bodystocking.safetensors" : "https://civitai.com/api/download/models/502478?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
