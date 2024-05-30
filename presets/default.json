@@ -1,5 +1,5 @@
 {
-    "default_model": "autismmixSDXL.safetensors",
+    "default_model": "autismmixSDXL_autismmixPony.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -34,16 +34,18 @@
     "default_sampler": "euler_ancestral",
     "default_scheduler": "karras",
     "default_performance": "Quality",
-    "default_prompt": "score_9, score_8_up, score_7_up, score_6_up, score_5_up,1girl",
-    "default_prompt_negative": "3d",
-    "default_styles": "",
+    "default_prompt": "",
+    "default_prompt_negative": "",
+    "default_styles":"",
     "default_aspect_ratio": "1152*896",
-    "checkpoint_downloads": "",
+    "checkpoint_downloads": {},
     "embeddings_downloads": {},
-    "lora_downloads": [
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
-        "Hidden_sex_pony.safetensors: "https://civitai.com/api/download/models/494167?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
-    ],
+    "lora_downloads": {
+        "Barely_Hidden_Sex.safetensors": "https://civitai.com/api/download/models/494167?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "Sinozick_Style_XL_Pony.safetensors" : "https://civitai.com/api/download/models/481798?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "Ass_trought_Glass.safetensors" : "https://civitai.com/api/download/models/479047?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "Blender.safetensors" : "https://civitai.com/api/download/models/507741?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
+    },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
         "juggernautXL_version7Rundiffusion.safetensors",
