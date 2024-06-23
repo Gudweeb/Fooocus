@@ -1,5 +1,5 @@
 {
-    "default_model": "tPonynai3_v51WeightOptimized",
+    "default_model": "tPonynai3_v51WeightOptimized.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
