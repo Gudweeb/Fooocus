@@ -1,12 +1,12 @@
 {
-    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
+    "default_model": "tPonynai3_v55.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            true,
-            "sd_xl_offset_example-lora_1.0.safetensors",
-            0.1
+            false,
+            "None",
+            1.0
         ],
         [
             true,
@@ -37,18 +37,16 @@
     "default_prompt": "",
     "default_prompt_negative": "",
     "default_styles": [
-        "Fooocus V2",
-        "Fooocus Enhance",
-        "Fooocus Sharp"
+        "Fooocus Pony"
     ],
-    "default_aspect_ratio": "1152*896",
+    "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
-    "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
-    },
+    "checkpoint_downloads": {},
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+        "Rar0.1": "https://civitai.com/api/download/models/670384?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "assfrontview": "https://civitai.com/api/download/models/608394?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "hugebreast": "https://civitai.com/api/download/models/623811?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
