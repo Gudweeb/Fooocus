@@ -4,7 +4,7 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            false,
+            true,
             "None",
             1.0
         ],
@@ -34,8 +34,8 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "",
-    "default_prompt_negative": "",
+    "default_prompt": "score_9,score_8_up,score_7_up,1girl",
+    "default_prompt_negative": "score_4,score_3,score_2,score_1,ugly,bad hand,bad feet,color",
     "default_styles": [
         "Fooocus Pony"
     ],
