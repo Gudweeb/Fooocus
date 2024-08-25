@@ -50,7 +50,8 @@
         "sittingonlap,pov.safetensors": "https://civitai.com/api/download/models/708990?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
         "seethroughcurtains.safetensors": "https://civitai.com/api/download/models/694521?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
         "Anya_(Spy_x_Family).safetensors": "https://civitai.com/api/download/models/662218?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
-        "18dart3,D-ART,D-ARTStyle.safetensors": "https://civitai.com/api/download/models/510284?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
+        "18dart3,D-ART,D-ARTStyle.safetensors": "https://civitai.com/api/download/models/510284?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "asssupport": "https://civitai.com/api/download/models/595215?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
