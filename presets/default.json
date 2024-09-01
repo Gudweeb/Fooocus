@@ -1,5 +1,5 @@
 {
-    "default_model": "ponyDiffusionV6XL_v6StartWithThisOne.safetensors",
+    "default_model": "autismmixSDXL_autismmixPony.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -34,7 +34,6 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Quality",
-    "default_vae": "sdxl_vae.safetensors",
     "default_prompt": "score_9,score_8_up,score_7_up,1girl",
     "default_prompt_negative": "score_4,score_3,score_2,score_1,ugly,bad hand,bad feet",
     "default_styles": [
