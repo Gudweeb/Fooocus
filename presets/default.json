@@ -53,7 +53,7 @@
         "shiny.safetensors": "https://civitai.com/api/download/models/691705?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
         "monaxl.safetensors": "https://civitai.com/api/download/models/368799?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
         "d3p1x3l,pixel art": "https://civitai.com/api/download/models/515155?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
-        "cut3ch4r,multiple views": "https://civitai.com/api/download/models/521850?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "cut3ch4r,multiple views": "https://civitai.com/api/download/models/521850?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
