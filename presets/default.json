@@ -36,9 +36,6 @@
     "default_performance": "Quality",
     "default_prompt": "score_9,score_8_up,score_7_up,1girl",
     "default_prompt_negative": "score_4,score_3,score_2,score_1,ugly,bad hand,bad feet",
-    "default_styles": [
-        "Fooocus Pony"
-    ],
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {},
@@ -51,8 +48,8 @@
         "mdfan.safetensors": "https://civitai.com/api/download/models/860188?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
         "csr style.safetensors": "https://civitai.com/api/download/models/839103?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
         "d3p1x3l,pixel art.safetensors": "https://civitai.com/api/download/models/515155?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
-        "D-ART,18dart321.safetensors": "https://civitai.com/api/download/models/510284?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
-        "dianadef,diana-AD.safetensors": "https://civitai.com/api/download/models/765054?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "XUER guangying.safetensors": "https://civitai.com/api/download/models/860001?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
+        "pantyhose.safetensors": "https://civitai.com/api/download/models/501742?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
         "mature female.safetensors": "https://civitai.com/api/download/models/587439?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
         "askziye.safetensors": "https://civitai.com/api/download/models/721913?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
         "androjuniarto.safetensors": "https://civitai.com/api/download/models/791463?type=Model&format=SafeTensor&token=adab4e9289857614c8ee31b6abcf4090",
