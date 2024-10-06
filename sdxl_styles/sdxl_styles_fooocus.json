@@ -32,8 +32,8 @@
         "negative_prompt": "anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
     },
     {
-        "name": "Fooocus Pony",
-        "prompt": "score_9, score_8_up, score_7_up, {prompt}",
+        "name": "Kisaki",
+        "prompt": "{prompt},kisaki-default,kisaki blue archive,grey eyes,black hair,double bun,twintails,halo,grey jacket,china dress,pelvic curtain",
         "negative_prompt": "score_6, score_5, score_4"
     }
 ]
